@@ -1,0 +1,6 @@
+{
+  "name": "Smart Kids Adventures",
+  "description": "Interactive educational and entertainment playground for kids with ABC learning, numbers, animals, games, creative studio, and rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
