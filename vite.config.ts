@@ -5,7 +5,7 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
-    base: process.env.VITE_BASE_PATH || './',
+    base: process.env.VITE_BASE_PATH || '/Learn-Play-Have-Fun/',
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
